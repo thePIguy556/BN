@@ -2,6 +2,7 @@ import java.io.File;
 import java.io.IOException;
 import java.util.Scanner;
 
+//This is a comment
 public class Group2_pe6 {
     public static void main(String[] args) throws IOException{
 
@@ -39,7 +40,7 @@ public class Group2_pe6 {
                 }
         
         System.out.println("The character " + character + " appears in the file " + counter + " times.");
-        System.out.println("test")
+        System.out.println("test");
                 fileInput.close();
                 
 	}
