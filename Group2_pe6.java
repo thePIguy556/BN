@@ -39,7 +39,8 @@ public class Group2_pe6 {
                 }
         
         System.out.println("The character " + character + " appears in the file " + counter + " times.");
-        
+        System.out.println("test")
                 fileInput.close();
+                
 	}
 }
